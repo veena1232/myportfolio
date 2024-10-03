@@ -41,13 +41,18 @@ const SkillsData = [
   },
   {
     id: "9",
-    name: "Redux",
-    image: require("../assets/Images/redux.png"),
+    name: "Angular",
+    image: require("../assets/Images/angular.png"),
   },
   {
     id: "10",
-    name: "Next",
-    image: require("../assets/Images/next.png"),
+    name: "Ionic",
+    image: require("../assets/Images/ionic.png"),
+  },
+  {
+    id: "10",
+    name: "Intellij",
+    image: require("../assets/Images/intellij.png"),
   },
   {
     id: "11",
@@ -61,19 +66,14 @@ const SkillsData = [
   },
   {
     id: "13",
-    name: "Prisma",
-    image: require("../assets/Images/prisma.png"),
+    name: "Bootstrap",
+    image: require("../assets/Images/bootstrap.png"),
   },
   {
     id: "14",
     name: "MySQL",
     image: require("../assets/Images/mysql.png"),
-  },
-  {
-    id: "15",
-    name: "Postman",
-    image: require("../assets/Images/postman.png"),
-  },
+  },  
   {
     id: "16",
     name: "VS Code",

@@ -42,15 +42,15 @@ const Contact = () => {
             </div>
             <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" className="flex gap-3 items-center mb-4 md:gap-2 lg:gap-5">
               <FaPhoneAlt className="text-white" />
-              <p className="text-white md:text-lg ">+91 9515643851</p>
+              <p className="text-white md:text-lg ">+91 9347976049</p>
             </div>
             <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" className="flex gap-3 items-center mb-4 md:gap-2 lg:gap-5">
               <FaEnvelope className="text-white" />
-              <a href="mailto:talakolavijaykumar@gmail.com" className="text-white md:text-lg">talakolavijaykumar@gmail.com</a>
+              <a href="mailto:talakolavijaykumar@gmail.com" className="text-white md:text-lg">veenanandeti@gmail.com</a>
             </div>
             <div data-aos="fade-right" data-aos-duration="1000" data-aos-once="false" className="flex gap-3 items-center md:gap-2 lg:gap-5">
               <FaMapMarkerAlt className="text-white" />
-              <p className="leading-normal text-start text-white md:text-lg">Guntur , Andhra Pradesh , India</p>
+              <p className="leading-normal text-start text-white md:text-lg">Hyderabad , Telanagana , India</p>
             </div>
           </div>
           <form data-aos="zoom-in-up" data-aos-duration="1000" data-aos-once="false" ref={formRef} onSubmit={handleSubmit} className="flex bg-whitesmoke flex-col p-2 rounded-lg md:w-1/2 md:p-4 lg:px-5 lg:py-7 lg:m-4 lg:w-3/5">

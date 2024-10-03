@@ -15,8 +15,8 @@ const Profile = () => {
         >
           <img
             className="object-cover object-center bg-[#b9aeb6] border-2 border-white pointer-events-none rounded-full backdrop-contrast-200 backdrop-brightness-200"
-            alt="Vijay"
-            src={require("../assets/Images/hero.png")}
+            alt="Veena"
+            src={require("../assets/Images/user.png")}
           />
         </div>
         <div className="lg:flex-grow lg:pr-4 lg:mr-14 flex flex-col md:mb-0 items-center text-center xl:scale-105">
@@ -27,7 +27,7 @@ const Profile = () => {
             data-aos-once="false"
             className="title-font md:text-3xl text-2xl mb-4 text-center font-medium text-white"
           >
-            Hello , I am <span className="text-dark-orange">Vijay Kumar</span>
+            Hello , I am <span className="text-dark-orange">Veena Manasa</span>
           </h2>
           <div
             data-aos="zoom-in-up"
@@ -78,7 +78,7 @@ const Profile = () => {
               </Link>
             </button>
             <a
-              href="https://drive.google.com/drive/u/1/folders/1VLbE3u0gC3x66ClPWCUmcK75DuhTAyKx"
+              href="https://drive.google.com/file/d/1_RT0CqnmG8ujYN1t625JURJPihFLHY41/view"
               target="_blank"
               rel="noreferrer"
             >
